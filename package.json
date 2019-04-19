@@ -1,8 +1,8 @@
 {
-    “name”: “greeter - bot”,
-    “version”: “1.0.0”,
-    “description”: “Mój Pierwszy Bot”,
-    “main”: “bot.js”,
-    “author”: “KacpeR“,
-    “dependencies”: { }
+    "name": "greeter - bot",
+    "version": "1.0.0",
+    "description": "MÃ³j Pierwszy Bot",
+    "main": "bot.js",
+    "author": "KacpeR",
+    "dependencies": { }
 }
