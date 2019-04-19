@@ -4,5 +4,6 @@
     "description": "Mój Pierwszy Bot",
     "main": "bot.js",
     "author": "KacpeR",
+       "start": "node bot.js"
     "dependencies": { }
 }
