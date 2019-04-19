@@ -5,6 +5,6 @@
     "main": "bot.js",
     "author": "KacpeR",
     "dependencies": { 
-    "discord.js": :12.1.0"
+    "discord.js": "12.1.0"
     }
 }
